@@ -1,5 +1,5 @@
 ### General idea
-There is a balcony on the third floor that I don't really need. Moreover, it causes leaks into the bedroom on the second floor during heavy rains. I want to reconstruct it by covering the balcony with a roof extended from the existing roof, efficiently making a new room on the third floor. 
+There is a balcony on the third floor that isn’t really needed. Moreover, it causes leaks into the bedroom on the second floor during heavy rains. Reconstruction is desired, covering the balcony with a roof extended from the existing roof, efficiently creating a new room on the third floor.
 
 ### Current project status
 To apply for a permit from the municipality, a civil engineering company is needed to create construction drawings.
