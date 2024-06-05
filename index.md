@@ -11,7 +11,7 @@ A structural calculation (constructieberekening) is NOT needed. However, the con
 * No walls, including facade walls and bearing walls, will be demolished.
 * Biggest possible window should be installed, according to my estimations it's size can be 1600mm x 1200mm
 * Area around the window should be covered with wood, matching existing wood color/pattern (green gorizontal planks).
-* I have old paper construction plans of existing building and can share its photos on request.
+* I have old paper construction plans of existing building and can share its photos on request. Plans can be downloded [from the cloud](https://mega.nz/file/FF90zbbD), decryption key will be provided separately. 
 * Constructional calculation (constructieberekenig) is NOT needed, this was aligned with the municipality.
 * There are no strict deadlines yet, but time is valuable, as this project should be completed during the dry season.
 
