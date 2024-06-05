@@ -12,7 +12,7 @@ A structural calculation (constructieberekening) is NOT needed. However, the con
 * Biggest possible window should be installed, according to my estimations it's size can be 1600mm x 1200mm
 * Area around the window should be covered with wood, matching existing wood color/pattern (green gorizontal planks).
 * I have old paper construction plans of existing building and can share its photos on request.
-* Constructional calculation (constructieberekenig) is NOT needed, it was aligned with the municipality.
+* Constructional calculation (constructieberekenig) is NOT needed, this was aligned with the municipality.
 * There are no strict deadlines yet, but time is valuable, as this project should be completed during the dry season.
 
 ### Visualisation
