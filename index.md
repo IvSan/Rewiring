@@ -11,7 +11,7 @@ All unearthed socket should become earthed.
 
 ### Metercast
 Upgrade the metercast to a modern and safe one, with RCD protection and everything else required.
-Make sure that new setup is based on three-fased grid connection.
+Make sure that new setup is based on three-phase grid connection.
 
 ### Action points
 Main tasks:  
