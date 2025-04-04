@@ -15,8 +15,8 @@ Make sure that new setup is based on three-fased grid connection.
 
 ### Action points
 Main tasks:  
-1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible. Exact list of sockets in each room will come a bit later.  
-1.2) Replace all unearthened sockets with new earthened ones.  
+1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible.  
+1.2) Replace all unearthened sockets with new earthened ones. Exact list of sockets in each room will come a bit later.  
 1.3) Upgrade the metercast.  
 
 Additional work:  
