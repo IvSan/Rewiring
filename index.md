@@ -21,7 +21,7 @@ Main tasks:
 
 Additional work:  
 2.1) Run a new line/lines from the metercast to the new kitchen (with induction stove).  
-2.2) Add a new line/lines from the metercast to the carport, for heavy load use, with a three-phase socket.  
+2.2) Add a new line/lines from the metercast to the carport, for heavy load use, with normal sockets and a three-phase socket.  
 2.3) Add sockets and wiring for lighting in the new room on the third floor.  
 2.4) A new separate outdoor line for backyard use (there is already some wire sticking from the ground).  
 2.5) A group for future solar panels.  
