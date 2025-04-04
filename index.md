@@ -13,7 +13,7 @@ All unearthed socket should become earthed.
 Upgrade the metercast to a modern and safe one, with RCD protection and everything else required.
 Make sure that new setup is based on three-fased grid connection.
 
-### General plan
+### Action points
 Main tasks:
 1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible.  
 1.2) Replace all unearthened sockets with new earthened ones.  
