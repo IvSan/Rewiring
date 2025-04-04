@@ -14,12 +14,12 @@ Upgrade the metercast to a modern and safe one, with RCD protection and everythi
 Make sure that new setup is based on three-fased grid connection.
 
 ### Action points
-Main tasks:
+Main tasks:  
 1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible.  
 1.2) Replace all unearthened sockets with new earthened ones.  
 1.3) Upgrade the metercast.  
 
-Additional work:
+Additional work:  
 2.1) Run a new line/lines from the metercast to the new kitchen (with induction stove).  
 2.2) Add a new line/lines from the metercast to the carport, for heavy load use, with a three-phase socket.  
 2.3) Add sockets and wiring for lighting in the new room on the third floor.  
