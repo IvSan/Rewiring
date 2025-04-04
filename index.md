@@ -15,17 +15,17 @@ Make sure that new setup is based on three-fased grid connection.
 
 ### General plan
 Main tasks:
-1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible.
-1.2) Replace all unearthened sockets with new earthened ones.
-1.3) Upgrade the metercast.
+1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible.  
+1.2) Replace all unearthened sockets with new earthened ones.  
+1.3) Upgrade the metercast.  
 
 Additional work:
-2.1) Run a new line/lines from the metercast to the new kitchen (with induction stove).
-2.2) Add a new line/lines from the metercast to the carport, for heavy load use, with a three-phase socket.
-2.3) Add sockets and wiring for lighting in the new room on the third floor.
-2.4) A new separate outdoor line for backyard use (there is already some wire sticking from the ground).
-2.5) A group for future solar panels.
-2.6) A group for future AC.
-2.7) If possible, I’d like to have a clear diagram or documentation showing how everything is connected.
+2.1) Run a new line/lines from the metercast to the new kitchen (with induction stove).  
+2.2) Add a new line/lines from the metercast to the carport, for heavy load use, with a three-phase socket.  
+2.3) Add sockets and wiring for lighting in the new room on the third floor.  
+2.4) A new separate outdoor line for backyard use (there is already some wire sticking from the ground).  
+2.5) A group for future solar panels.  
+2.6) A group for future AC.  
+2.7) If possible, I’d like to have a clear diagram or documentation showing how everything is connected.  
 
 Exact list of sockets in each room will come a bit later.
