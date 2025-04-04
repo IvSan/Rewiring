@@ -24,8 +24,9 @@ Additional work:
 2.2) Add a new line/lines from the metercast to the carport, for heavy load use, with normal sockets and a three-phase socket.  
 2.3) Add sockets and wiring for lighting in the new room on the third floor.  
 2.4) A new separate outdoor line for backyard use (there is already some wire sticking from the ground).  
-2.5) A group for future solar panels.  
-2.6) A group for future AC.  
-2.7) If possible, I’d like to have a clear diagram or documentation showing how everything is connected.  
+2.5) A group for future solar panels. No wire for now as I don't know exact location yet.  
+2.6) A group for future AC. No wire for now as I don't know exact location yet.  
+2.7) At least 4 spare group spaces for future use (EV charger for example).  
+2.8) If possible, I’d like to have a clear diagram or documentation showing how everything is connected.  
 
 Exact list of sockets in each room will come a bit later.
