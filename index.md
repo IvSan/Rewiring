@@ -15,7 +15,7 @@ Make sure that new setup is based on three-fased grid connection.
 
 ### Action points
 Main tasks:  
-1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible.  
+1.1) Install proper earthing in all rooms where it’s missing, ideally without having to cut into the walls, though we’ll see what’s possible. Exact list of sockets in each room will come a bit later.  
 1.2) Replace all unearthened sockets with new earthened ones.  
 1.3) Upgrade the metercast.  
 
@@ -28,5 +28,3 @@ Additional work:
 2.6) A group for future AC. No wire for now as I don't know exact location yet.  
 2.7) At least 4 spare group spaces for future use (EV charger for example).  
 2.8) If possible, I’d like to have a clear diagram or documentation showing how everything is connected.  
-
-Exact list of sockets in each room will come a bit later.
