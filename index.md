@@ -27,3 +27,9 @@ Additional work:
 2.6) A group for future AC. No wire for now as I don't know exact location yet.  
 2.7) At least 4 spare group spaces for future use (EV charger for example).  
 2.8) If possible, I’d like to have a clear diagram or documentation showing how everything is connected.  
+
+
+| Header 1      | Header 2      | Header 3      |
+| ------------- | ------------- | ------------- |
+| Row 1 Column 1| Row 1 Column 2| Row 1 Column 3|
+| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3|
