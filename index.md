@@ -2,12 +2,7 @@
 The house has old electrical setup, it has to upgraded to modern one, safe and future-proof.
 
 ### Earthing
-I’ve bought an electrical earthing tester and collected some initial data. It looks like there is an earth connection in the sockets in the kitchen, bathroom, basement, and the workshop on the first floor. I can’t say how reliable these connections are, I don’t have the proper equipment to verify that, so I hope electrician can check them properly.
-There’s no earthing at all:
-- in the living room on the first floor,
-- in all three rooms on the second floor,
-- and the entire third floor is also without earthing.
-All unearthed socket should become earthed.
+I’ve bought an electrical earthing tester and collected some initial data. It looks like there is an earth connection in the sockets in the kitchen, bathroom, basement, and the workshop on the first floor. I can’t say how reliable these connections are, I don’t have the proper equipment to verify that, so I hope electrician can check them properly. All unearthed socket should become earthed.
 
 ### Sockets count
 | Symbol | Legend |
