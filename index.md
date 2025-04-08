@@ -5,7 +5,7 @@ The house has old electrical setup, it has to upgraded to modern one, safe and f
 I’ve bought an electrical earthing tester and collected some initial data. It looks like there is an earth connection in the sockets in the kitchen, bathroom, basement, and the workshop on the first floor. I can’t say how reliable these connections are, I don’t have the proper equipment to verify that, so I hope electrician can check them properly. All unearthed socket should become earthed.
 
 ### Sockets count
-<img src="sockets.png" alt="Sockets" width="500">
+<img src="sockets.png" alt="Sockets" width="500">  
 Total non-earthened sockets: 30  
 
 ### Metercast
