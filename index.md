@@ -14,6 +14,7 @@ I’ve bought an electrical earthing tester and collected some initial data. It 
 | <ins>d</ins>      | double earthened socket     | 
 
 Current sockets layout:  
+
 | Floor | Room        | Sockets                      |  Comment         |
 |:-----:|-------------|------------------------------|------------------|
 | 0     | Basement    | multiple <ins>d</ins>        | All earthened    |
