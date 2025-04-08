@@ -5,7 +5,31 @@ The house has old electrical setup, it has to upgraded to modern one, safe and f
 I’ve bought an electrical earthing tester and collected some initial data. It looks like there is an earth connection in the sockets in the kitchen, bathroom, basement, and the workshop on the first floor. I can’t say how reliable these connections are, I don’t have the proper equipment to verify that, so I hope electrician can check them properly. All unearthed socket should become earthed.
 
 ### Sockets count
-<img src="sockets.png" alt="Sockets" width="500">  
+
+| Symbol | Legend |
+|:------:|--------|
+| s      | single non-earthened socket |  
+| <ins>s</ins>      | single earthened socket     | 
+| d      | double non-earthened socket | 
+| <ins>d</ins>      | double earthened socket     | 
+
+Current sockets layout:  
+| Floor | Room        | Sockets                      |  Comment         |
+|:-----:|-------------|------------------------------|------------------|
+| 0     | Basement    | multiple <ins>d</ins>        | All earthened    |
+| 1     | New kitchen | 1<ins>s</ins> 2<ins>d</ins>  | All earthened    |
+| 1     | Old kitchen | 5<ins>s</ins> 4<ins>d</ins> and 1 three-phased | All earthened    |
+| 1     | Livingroom  | 5d                           | No earthing      |
+| 1     | Metercast   | 1<ins>d</ins>                | Earthened        |
+| 2     | Hall        | 1s                           | No earthing      |
+| 2     | Bedroom     | 6s                           | No earthing      |
+| 2     | Bathroom    | 2<ins>s</ins>                | All earthened    |
+| 2     | Office 1    | 4s and one empty cavity      | No earthing      |
+| 2     | Office 2    | 3s 5d                        | No earthing      |
+| 3     | New room    | 1d                           | No earthing      |
+| 3     | Dark room   | 2<ins>d</ins> and <ins>grounded 4-socket</ins> | All earthened    |
+| 3     | Old room    | 3s and one empty cavity      | No earthing      |
+
 Total non-earthened sockets: 30  
 
 ### Metercast
