@@ -41,7 +41,7 @@ Proposed groups setup:
 2. New kitchen
 3. New kitchen stove
 4. Workshop
-5. Washing machine + cloth dryier
+5. Washing machine + cloth dryer
 6. Electric water heater for the kitchen
 7. Carport single phase
 8. Carport three phase
