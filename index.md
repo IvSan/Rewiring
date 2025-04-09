@@ -36,6 +36,27 @@ Total non-earthened sockets: 30
 ### Metercast
 Upgrade the metercast to a modern and safe one, with RCD protection and everything else required.
 Make sure that new setup is based on three-phase grid connection.
+Proposed group setup:  
+1. First floor except kitchen and workshop/carport
+2. New kitchen
+3. New kitchen stove
+4. Workshop
+5. Washing machine + cloth dryier
+6. Electric water heater for the kitchen (does it has to be separate?)
+7. Carport single phase
+8. Carport three phase
+9. Second floor except bathroom
+10. Bathroom (does it has to be separate?)
+11. Third floor except utility room
+12. Third floor utility room (does it has to be separate?)
+13. Shed
+14. Backyard
+15. Solar panels
+16. AC/Heatpump
+17. Spare
+18. Spare
+19. Spare
+20. Spare
 
 ### Action points
 1. Main tasks:  
