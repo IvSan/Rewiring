@@ -46,7 +46,7 @@ Proposed groups setup:
 7. Cloth dryer
 8. Electric water heater for the kitchen
 9. Carport single phase
-10. Carport three phase
+10. Carport three phase (CEE 16A)
 11. Same group as above
 12. Same group as above
 13. Second floor entirely
