@@ -40,15 +40,15 @@ Proposed groups setup:
 1. Ground floor except kitchen and workshop/carport
 2. New kitchen (Temporary existing kitchen)
 3. New kitchen stove (Temporary existing kitchen stove)
-4. ^
+4. Same group as above
 5. Workshop
 6. Washing machine
 7. Cloth dryer
 8. Electric water heater for the kitchen
 9. Carport single phase
 10. Carport three phase
-11. ^
-12. ^
+11. Same group as above
+12. Same group as above
 13. Second floor entirely
 15. Third floor except utility room
 16. Third floor utility room (?)
@@ -56,8 +56,8 @@ Proposed groups setup:
 18. Backyard
 19. Empty space for - Solar panels 
 20. Empty space for - AC/Heatpump
-21. ^
-22. ^
+21. Same group as above
+22. Same group as above
 23. Spare
 24. Spare
 25. Spare
