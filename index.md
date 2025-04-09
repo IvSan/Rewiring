@@ -38,25 +38,30 @@ Upgrade the metercast to a modern and safe one, with RCD protection and everythi
 Make sure that new setup is based on three-phase grid connection.  
 Proposed groups setup:  
 1. First floor except kitchen and workshop/carport
-2. New kitchen
-3. New kitchen stove
-4. Workshop
-5. Washing machine + cloth dryer
-6. Electric water heater for the kitchen
-7. Carport single phase
-8. Carport three phase
-9. Second floor except bathroom
-10. Bathroom (does it have to be separate?)
-11. Third floor except utility room
-12. Third floor utility room (does it have to be separate?)
-13. Shed
-14. Backyard
-15. Solar panels
-16. AC/Heatpump
-17. Spare (Temporary existing kitchen)
-18. Spare (Temporary existing kitchen stove)
-19. Spare
-20. Spare
+2. New kitchen (Temporary existing kitchen)
+3. New kitchen stove (Temporary existing kitchen stove)
+4. ^
+5. Workshop
+6. Washing machine
+7. Cloth dryer
+8. Electric water heater for the kitchen
+9. Carport single phase
+10. Carport three phase
+11. ^
+12. ^
+13. Second floor entirely
+15. Third floor except utility room
+16. Third floor utility room (?)
+17. Shed
+18. Backyard
+19. Empty space for - Solar panels 
+20. Empty space for - AC/Heatpump
+21. ^
+22. ^
+23. Spare
+24. Spare
+25. Spare
+26. Spare
 
 ### Action points
 1. Main tasks:  
