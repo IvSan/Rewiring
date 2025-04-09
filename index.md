@@ -46,9 +46,9 @@ Proposed groups setup:
 7. Carport single phase
 8. Carport three phase
 9. Second floor except bathroom
-10. Bathroom (does it has to be separate?)
+10. Bathroom (does it have to be separate?)
 11. Third floor except utility room
-12. Third floor utility room (does it has to be separate?)
+12. Third floor utility room (does it have to be separate?)
 13. Shed
 14. Backyard
 15. Solar panels
