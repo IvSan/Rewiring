@@ -36,7 +36,7 @@ Total non-earthened sockets: 30
 ### Metercast
 Upgrade the metercast to a modern and safe one, with RCD protection and everything else required.
 Make sure that new setup is based on three-phase grid connection.  
-Proposed group setup:  
+Proposed groups setup:  
 1. First floor except kitchen and workshop/carport
 2. New kitchen
 3. New kitchen stove
