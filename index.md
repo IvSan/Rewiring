@@ -28,7 +28,7 @@ Current sockets layout:
 | 2     | Office 1    | 4s and one empty cavity      | No earthing      |
 | 2     | Office 2    | 3s 5d                        | No earthing      |
 | 3     | New room    | 1d                           | No earthing      |
-| 3     | Dark room   | 2<ins>d</ins> and <ins>grounded 4-socket</ins> | All earthened    |
+| 3     | Photo room  | 2<ins>d</ins> and <ins>grounded 4-socket</ins> | All earthened    |
 | 3     | Old room    | 3s and one empty cavity      | No earthing      |
 
 Total non-earthened sockets: 30  
@@ -50,8 +50,8 @@ Proposed groups setup:
 11. Same group as above
 12. Same group as above
 13. Second floor entirely
-15. Third floor except utility room
-16. Third floor utility room (?)
+15. Third floor except photo room
+16. Third floor photo room (?)
 17. Shed
 18. Backyard
 19. Empty space for - Solar panels 
