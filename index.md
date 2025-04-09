@@ -44,7 +44,7 @@ Make sure that new setup is based on three-phase grid connection.
    1.3 Upgrade the metercast.  
 
 2. Additional work:  
-   2.1 Run a new line/lines from the metercast to the new kitchen (with induction stove).  
+   2.1 Add a new line/lines from the metercast to the new kitchen (with induction stove).  
    2.2 Add a new line/lines from the metercast to the carport, for heavy load use, with normal sockets and a three-phase socket.  
    2.3 Add sockets and wiring for lighting in the new room on the third floor.  
    2.4 A new separate outdoor line is needed for backyard use (there is already some wire sticking from the ground).  
